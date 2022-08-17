@@ -2,8 +2,15 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Gene Arendarenko",
   "description": "Backend tutorial by FreeCodeCamp",
+  "keywords": [
+    "backend",
+    "tutorial",
+    "freeCodeCamp"
+  ],
+  "version": "1.0.0",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "@freecodecamp/example": "1.2.13"
   },
   "main": "server.js",
   "scripts": {
